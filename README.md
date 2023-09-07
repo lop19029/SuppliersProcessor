@@ -18,7 +18,7 @@ To run the application, use the following command:
 mvn spring-boot:run
 ```
 ## Accesing the Dabase
-- Open the H2 console in any browser: "http://localhost:8080/h2-console 
+- Open the H2 console in any browser: http://localhost:8080/h2-console 
 - Enter the "bloom" username
 
 ### Author
