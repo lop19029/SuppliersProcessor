@@ -22,6 +22,12 @@ mvn spring-boot:run
 - Username: bloom
 - Password: password
 
+## Feed the app with files
+- Create a directory at the root of the project. Name it "supply-product-data-files"
+- Add files containing the tables into the directory. The files can be either in the .csv, tab-delimeted .txt, or .xlsx format
+- The tables MUST include a "product" and "quantity" or "inventory" columns.
+- The files MUST be named after the following <supplier_id>.<extension> 
+
 ### Author
 - Alex López
  https://www.linkedin.com/in/alexhumbertolopez/
