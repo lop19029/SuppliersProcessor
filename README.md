@@ -19,7 +19,8 @@ mvn spring-boot:run
 ```
 ## Accesing the Dabase
 - Open the H2 console in any browser: http://localhost:8080/h2-console 
-- Enter the "bloom" username
+- Username: bloom
+- Password: password
 
 ### Author
 - Alex López
